@@ -12,8 +12,10 @@ debugging them, and documenting solutions.
 ```
 cka-labs/
 ├── 01-pods/
-│ ├── README.md
+│ ├── broken-pod.md
 │ └── broken-pod.yaml
+│ └── crashloop-pod.md
+│ └── crashloop-pod.yaml
 ├── 02-deployments/
 ├── 03-services/
 ├── 04-troubleshooting/
