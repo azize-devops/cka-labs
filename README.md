@@ -30,3 +30,22 @@ Each lab follows this approach:
 ---
 ## 🎯 Objective
 Develop production-ready Kubernetes skills and confidently pass the CKA exam.
+
+
+├── src
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json
+└── .gitignore
