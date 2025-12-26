@@ -9,14 +9,14 @@ debugging them, and documenting solutions.
 ---
 ## 📁 Repository Structure
 
-''cka-labs/
+'''cka-labs/
 ├── 01-pods/
 │ ├── README.md
 │ └── broken-pod.yaml
 ├── 02-deployments/
 ├── 03-services/
 ├── 04-troubleshooting/
-└── README.md ''
+└── README.md '''
 
 ---
 ## 🧠 Lab Methodology
